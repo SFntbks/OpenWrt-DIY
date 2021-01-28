@@ -20,8 +20,8 @@ on:
       - main
     paths:
       - 'config/r2s.config'
-  schedule:
-    - cron: 30 16 * * *
+  #schedule:
+   # - cron: 30 16 * * *
 #  watch:
 #    types: started
 
