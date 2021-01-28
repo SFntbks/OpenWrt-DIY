@@ -21,7 +21,7 @@ on:
     paths:
       - 'config/r2s.config'
   schedule:
-    - cron: 29 0 * * *
+    - cron: 30 16 * * *
 #  watch:
 #    types: started
 
